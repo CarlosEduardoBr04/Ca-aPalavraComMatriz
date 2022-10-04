@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animes>
+    <anime>
+        <nome>One Punch Man</nome>
+        <inicial>24</inicial>
+        <final>34</final>
+        <incremento>1</incremento>
+        <cor>#483D8B</cor>
+    </anime>
+    <anime>
+        <nome>Tokyo Ghoul</nome>
+        <inicial>42</inicial>
+        <final>51</final>
+        <incremento>1</incremento>
+        <cor>#B0E0E6</cor>
+    </anime>
+    <anime>
+        <nome>Pokemon</nome>
+        <inicial>80</inicial>
+        <final>86</final>
+        <incremento>1</incremento>
+        <cor>#98FB98</cor>
+    </anime>
+    <anime>
+        <nome>Dragon Ball</nome>
+        <inicial>111</inicial>
+        <final>120</final>
+        <incremento>1</incremento>
+        <cor>#264653</cor>
+    </anime>
+    <anime>
+        <nome>Fairytail</nome>
+        <inicial>171</inicial>
+        <final>179</final>
+        <incremento>1</incremento>
+        <cor>#F4A261</cor>
+    </anime>
+    <anime>
+        <nome>Inuyasha</nome>
+        <inicial>181</inicial>
+        <final>188</final>
+        <incremento>1</incremento>
+        <cor>#2A9D8F</cor>
+    </anime>    
+    <anime>
+        <nome>Naruto</nome>
+        <inicial>93</inicial>
+        <final>98</final>
+        <incremento>1</incremento>
+        <cor>#E76F51</cor>
+    </anime>
+    <anime>
+        <nome>Bleach</nome>
+        <inicial>1</inicial>
+        <final>6</final>
+        <incremento>1</incremento>
+        <cor>#264653</cor>
+    </anime>
+    <anime>
+        <nome>Soul Eater</nome>
+        <inicial>225</inicial>
+        <final>233</final>
+        <incremento>1</incremento>
+        <cor>#E9C46A</cor>
+    </anime>
+    <anime>
+        <nome>Death Note</nome>
+        <inicial>146</inicial>
+        <final>154</final>
+        <incremento>1</incremento>
+        <cor>#2A9D8F</cor>
+    </anime>
+</animes>
